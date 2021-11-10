@@ -1,0 +1,26 @@
+
+
+Version:	3.12
+CmdLine:	E:\RAYEN ISI\2 CS\java project\gestion_bibliotheque\Gestion Bibliotheque.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\RAYEN ISI\2 CS\java project\gestion_bibliotheque\.
+Java min ver:	1.006.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_281
+Check launcher:	C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe (OK)
+Match:		1.008.000_281
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-jar "E:\RAYEN ISI\2 CS\java project\gestion_bibliotheque\Gestion Bibliotheque.exe"
+Args length:	83/32768 chars
+Exit code:	0
